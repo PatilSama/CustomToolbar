@@ -6,4 +6,6 @@
         android:showAsAction="ifRoom"></item>
     <item android:title="NewFolder" android:icon="@drawable/newfolder"
         app:showAsAction="never" android:id="@+id/newFolder"></item>
+    <item android:title="Contact" android:icon="@drawable/newfolder"
+        app:showAsAction="never" android:id="@+id/contact"></item>
 </menu>
